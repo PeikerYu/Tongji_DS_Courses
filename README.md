@@ -15,7 +15,7 @@
 
 这里汇总了我在同济大学数据科学与大数据技术专业学习期间整理的课程资料。各门课程独立维护，本仓库提供统一导航，方便查找笔记、作业、报告与项目。
 
-**目前收录 9 个课程相关仓库，随学习进度持续补充。** 目录仅列出已有资料，具体收录范围见各仓库 README。
+**目前收录 8 个课程相关仓库，随学习进度持续补充。** 目录仅列出已有资料，具体收录范围见各仓库 README。
 
 ## 课程目录
 
@@ -27,19 +27,14 @@
 | 数据结构与算法 | [数据结构与算法设计（上）](https://github.com/PeikerYu/Tongji_DataStructure) | 课程笔记、数据结构实现与作业报告 |
 | 数据结构与算法 | [数据结构与算法设计（下）](https://github.com/PeikerYu/Tongji_Algorithm) | 分治、动态规划、贪心、回溯、分支界限与期中项目 |
 | 数据科学 | [数据科学导论](https://github.com/PeikerYu/Tongji_IntroDataScience) | SQL / MongoDB 报告、ID3 决策树、聚类与可视化 |
-| 数据库 | [数据库系统原理](https://github.com/PeikerYu/Tongji_Database_Principles) | 课后作业、城市交通状态多源数据融合查询系统报告 |
-| 人工智能 | [人工智能原理与课程设计](https://github.com/PeikerYu/Tongji_AI_Principles) | 平时作业、期中报告、N 皇后、路径规划与深度学习课设材料 |
-| 数学建模 | [数学建模竞赛课程](https://github.com/PeikerYu/Tongji_Math_Modeling) | 多模态点击率预测项目报告、代码归档与汇报材料 |
+| 人工智能 | [人工智能原理与课程设计](https://github.com/PeikerYu/Tongji_AI_Principles) | AI算法、深度学习基础 |
+| 数学建模 | [数学建模竞赛课程](https://github.com/PeikerYu/Tongji_Math_Modeling) | 期中期末作业 |
 
 ## 持续更新
 
 已有课程的新增材料会直接更新在对应仓库；新增课程整理后，会加入上方目录。
 
 欢迎通过对应仓库的 Issues 指出资料中的错误或交流课程内容。
-
-## 致谢
-
-课程汇总的整理方式参考了学长 [YAN-LIU05 的 Tongji_DS_Courses](https://github.com/YAN-LIU05/Tongji_DS_Courses)，感谢分享。
 
 ---
 
