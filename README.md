@@ -7,7 +7,7 @@
 
 <p><a href="#课程导航"><img src="https://img.shields.io/badge/Courses-8-38bdf8?style=flat-square&amp;labelColor=0f172a" alt="收录 8 个课程仓库"></a> <a href="#持续更新"><img src="https://img.shields.io/badge/Status-Updating-0ea5e9?style=flat-square&amp;labelColor=0f172a" alt="持续更新中"></a> <a href="https://github.com/PeikerYu"><img src="https://img.shields.io/badge/GitHub-PeikerYu-2563eb?style=flat-square&amp;logo=github&amp;labelColor=0f172a" alt="PeikerYu 的 GitHub"></a></p>
 
-<p><a href="#编程基础">编程基础</a>　　<a href="#数据结构与算法">数据结构与算法</a>　　<a href="#专业课程">专业课程</a></p>
+<p><a href="#编程基础">编程基础</a>　　<a href="#数据结构与算法">数据结构与算法</a>　　<a href="#数据科学与人工智能">数据科学与人工智能</a></p>
 
 </div>
 
@@ -30,7 +30,7 @@
 | [数据结构与算法设计（上）](https://github.com/PeikerYu/Tongji_DataStructure) | 线性表、栈与队列、串、数组与广义表、树、图、哈希表 |
 | [数据结构与算法设计（下）](https://github.com/PeikerYu/Tongji_Algorithm) | 分治、动态规划、贪心、回溯、分支界限与期中项目 |
 
-### 专业课程
+### 数据科学与人工智能
 
 | 课程 | 已收录内容 |
 | :--- | :--- |
