@@ -27,7 +27,7 @@
 
 | 课程 | 已收录内容 |
 | :--- | :--- |
-| [数据结构与算法设计（上）](https://github.com/PeikerYu/Tongji_DataStructure) | 课程笔记、数据结构实现与作业报告 |
+| [数据结构与算法设计（上）](https://github.com/PeikerYu/Tongji_DataStructure) | 线性表、栈与队列、串、数组与广义表、树、图、哈希表 |
 | [数据结构与算法设计（下）](https://github.com/PeikerYu/Tongji_Algorithm) | 分治、动态规划、贪心、回溯、分支界限与期中项目 |
 
 ### 专业课程
