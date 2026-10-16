@@ -5,4 +5,8 @@
 - [原始分享页面](https://tenor.com/view/gojo-gojo-satoru-avant-eve-gojo-satoru-eyes-gojo-phantom-parade-gif-25858124)
 - [GIF 原文件](https://media1.tenor.com/m/8TlXbUtUy1UAAAAC/gojo-gojo-satoru.gif)
 
-文件保持原样，README 中以 480 像素宽度显示。相关角色与画面版权归原权利人所有。
+原始 GIF 保持原样。相关角色与画面版权归原权利人所有。
+
+`course-banner.svg` 与 `course-banner-mobile.svg` 内嵌同一份 GIF，并叠加半透明渐变和矢量标题，分别用于宽屏与手机端。横幅铺满 README 内容区，文字随横幅缩放。
+
+修改标题或版式后，可运行 `python scripts/build_banner.py` 重新生成横幅。生成器只使用 Python 标准库，不依赖外部图片服务。

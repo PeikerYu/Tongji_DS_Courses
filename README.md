@@ -1,10 +1,9 @@
 <div align="center">
 
-# 🎓 同济大学 数据科学与大数据技术专业课程资料
-
-**Tongji University - Data Science and Big Data Technology Courses**
-
-<p><a href="https://tenor.com/view/gojo-gojo-satoru-avant-eve-gojo-satoru-eyes-gojo-phantom-parade-gif-25858124"><img src="assets/gojo-avant.gif" width="480" alt="五条悟蓝色出场动画，来自《咒术回战 幻影夜行》"></a></p>
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/course-banner-mobile.svg">
+  <img src="assets/course-banner.svg" width="100%" alt="🎓 同济大学 数据科学与大数据技术专业课程资料 — Tongji University - Data Science and Big Data Technology Courses">
+</picture>
 
 <p><a href="#课程导航"><img src="https://img.shields.io/badge/Courses-8-38bdf8?style=flat-square&amp;labelColor=0f172a" alt="收录 8 个课程仓库"></a> <a href="#持续更新"><img src="https://img.shields.io/badge/Status-Updating-0ea5e9?style=flat-square&amp;labelColor=0f172a" alt="持续更新中"></a> <a href="https://github.com/PeikerYu"><img src="https://img.shields.io/badge/GitHub-PeikerYu-2563eb?style=flat-square&amp;logo=github&amp;labelColor=0f172a" alt="PeikerYu 的 GitHub"></a></p>
 
