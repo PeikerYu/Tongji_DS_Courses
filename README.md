@@ -1,23 +1,21 @@
 <div align="center">
 
-# 同济大学 · 数据科学与大数据技术
+# 🎓 同济大学 数据科学与大数据技术专业课程资料
 
-**Tongji University · Data Science & Big Data Technology**
-
-课程笔记 · 编程作业 · 实验报告 · 课程项目
+**Tongji University - Data Science and Big Data Technology Courses**
 
 [![维护状态](https://img.shields.io/badge/Status-Updating-2563eb?style=flat-square)](https://github.com/PeikerYu/Tongji_DS_Courses)
 [![作者](https://img.shields.io/badge/GitHub-PeikerYu-181717?style=flat-square&logo=github)](https://github.com/PeikerYu)
 
 </div>
 
-## 关于
+## 📖 关于
 
 这里汇总了我在同济大学数据科学与大数据技术专业学习期间整理的课程资料。各门课程独立维护，本仓库提供统一导航，方便查找笔记、作业、报告与项目。
 
 **目前收录 8 个课程相关仓库，随学习进度持续补充。** 目录仅列出已有资料，具体收录范围见各仓库 README。
 
-## 课程目录
+## 📂 课程目录
 
 | 方向 | 课程 / 资料 | 已收录内容 |
 | :--- | :--- | :--- |
@@ -30,7 +28,7 @@
 | 人工智能 | [人工智能原理与课程设计](https://github.com/PeikerYu/Tongji_AI_Principles) | AI算法、深度学习基础 |
 | 数学建模 | [数学建模竞赛课程](https://github.com/PeikerYu/Tongji_Math_Modeling) | 期中期末作业 |
 
-## 持续更新
+## 🌱 持续更新
 
 已有课程的新增材料会直接更新在对应仓库；新增课程整理后，会加入上方目录。
 
@@ -38,4 +36,4 @@
 
 ---
 
-Maintained by [Peike Yu](https://github.com/PeikerYu) · Tongji University
+Maintained by [Peike Yu](https://github.com/PeikerYu) - Tongji University
